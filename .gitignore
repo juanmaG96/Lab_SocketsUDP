@@ -1,0 +1,20 @@
+# .NET Core
+bin/
+obj/
+*.csproj.user
+*.sln.DotSettings.user
+*.vs/
+*.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Archivos de compilación
+*.dll
+*.exe
+*.pdb
+*.cache
+
+# Directorios de paquetes
+packages/
